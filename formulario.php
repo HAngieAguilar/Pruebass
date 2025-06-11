@@ -18,7 +18,7 @@
         <h1>Orden De Trabajo</h1>
         <div class="DatosOrdenTrabajo">
         <h3>Datos Orden</h3>
-        <form id="formulario_Orden" action="ordentrabajo.php" method="post">
+        <form id="formulario_Orden" action="NuevaOrden.php" method="post">
             <div class="DatosOrden" id="DatosOrden">
                 
 
